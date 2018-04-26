@@ -24,6 +24,8 @@ Will be up soon
 Geometric Brownian Motion: https://www.investopedia.com/articles/07/montecarlo.asp 
 Tarnopolski, Mariusz. (2017). Modeling the price of Bitcoin with fractional Brownian 	motion: a Monte Carlo approach. 
 Cocco, L., Pinna, A., & Marchesi, M. (2017). Banking on Blockchain: Costs Savings Thanks 	to the Blockchain Technology. Future Internet, 9(3), 25.
+Cocco, L., Pinna, A., & Marchesi, M. (2017). Banking on Blockchain: Costs Savings Thanks 	to the Blockchain Technology. Future Internet, 9(3), 25.
+
 kaggle.com
 yahoo finance ticker.
 
