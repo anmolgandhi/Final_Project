@@ -11,6 +11,7 @@ We are using varibale like open and close and further use them to determine the 
 
 ## Hypothesis or hypotheses before running the simulation:
 We think that ripple and litecoin prices will increases in btc as well as usd
+
 we think that ripple litecoin wrt usd will be more profitable because of high volume of trades
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
