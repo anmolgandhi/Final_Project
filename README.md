@@ -14,7 +14,7 @@ We think that cyrpto prices will generally increase drastically
 we think blackswans are rare in crypo space
 
 ## Analytical Summary of your findings: (e.g. Did you adjust the scenario based on previous simulation outcomes?  What are the management decisions one could make from your simulation's output, etc.)
-we came to know that after applying trasnformation the price doesnt show unnecessary exponential increase, this is important becasue we can come to know about most likely price. Also after blackswan detection we understood that the crypto space is highly volative and there is 93.4% probability that a black swan event could occur and this is a high risk level investment as the plot shows even -1000% daily changes in a number of cryptos.
+we came to know that after applying trasnformation the price doesnt show unnecessary exponential increase, this is important becasue we can come to know about most likely price. Also after blackswan detection we understood that the crypto space is highly volative and there is 93.4% probability that a black swan event could occur and this is a high risk level investment as the plot shows even -100% daily changes in a number of cryptos.
 
 ## Instructions on how to use the program:
 It is an ipython notebook and instruction on which function to use first is given inside the notebook.
